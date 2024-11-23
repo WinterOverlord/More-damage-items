@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_damage_items:block/t01f625a63289cdcc61",
+    "up": "more_damage_items:block/t01f625a63289cdcc61",
+    "north": "more_damage_items:block/t01f625a63289cdcc61",
+    "east": "more_damage_items:block/t01f625a63289cdcc61",
+    "south": "more_damage_items:block/t01f625a63289cdcc61",
+    "west": "more_damage_items:block/t01f625a63289cdcc61",
+    "particle": "more_damage_items:block/t01f625a63289cdcc61"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,16 @@
+{
+  "_fv": 69,
+  "_type": "villagerprofession",
+  "definition": {
+    "displayName": "Sb",
+    "pointOfInterest": {
+      "value": "Blocks.EMERALD_BLOCK"
+    },
+    "actionSound": {
+      "value": "block.bamboo_wood.place"
+    },
+    "hat": "None",
+    "professionTextureFile": "manpng.png",
+    "zombifiedProfessionTextureFile": "t01f625a63289cdcc61.png"
+  }
+}

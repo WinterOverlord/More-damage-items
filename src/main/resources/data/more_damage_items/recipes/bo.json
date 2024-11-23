@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "more_damage_items:banana"
+    }
+  },
+  "result": {
+    "item": "more_damage_items:bananablock",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Pingguoxiang",
+    "rarity": "COMMON",
+    "texture": "minecraft:music_disc_stal",
+    "description": "开始播放苹果香",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:P"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:apple"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "_fv": 69,
+  "_type": "villagertrade",
+  "definition": {
+    "tradeEntries": [
+      {
+        "villagerProfession": {
+          "value": "CUSTOM:Sb"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Blocks.WOOL#0"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": "Blocks.GRASS"
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "Items.EMERALD"
+            },
+            "countOffer": 1,
+            "level": 5,
+            "maxTrades": 10,
+            "xp": 0,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "CUSTOM:Pumpkinredandblue"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": "Blocks.DIRT#0"
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "Blocks.REEDS"
+            },
+            "countOffer": 1,
+            "level": 1,
+            "maxTrades": 10,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          }
+        ]
+      }
+    ]
+  }
+}

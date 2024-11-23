@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "more_damage_items:bananablock"
+    }
+  ],
+  "result": {
+    "item": "more_damage_items:banana",
+    "count": 9
+  }
+}
