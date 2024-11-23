@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "more_damage_items:block/pinkyellow_portal_ew"
+    },
+    "axis=x": {
+      "model": "more_damage_items:block/pinkyellow_portal_ns"
+    }
+  }
+}

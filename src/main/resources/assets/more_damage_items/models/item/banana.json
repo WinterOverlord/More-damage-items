@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "more_damage_items:item/t01f625a63289cdcc61"
+  }
+}

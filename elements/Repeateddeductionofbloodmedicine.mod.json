@@ -1,0 +1,21 @@
+{
+  "_fv": 69,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Repeateddeductionofblood",
+    "splashName": "Splash Potion of Repeateddeductionofblood",
+    "lingeringName": "Lingering Potion of Repeateddeductionofblood",
+    "arrowName": "Arrow of Repeateddeductionofblood",
+    "effects": [
+      {
+        "effect": {
+          "value": "CUSTOM:Repeateddeductionofblood"
+        },
+        "duration": 9999,
+        "amplifier": 0,
+        "ambient": true,
+        "showParticles": true
+      }
+    ]
+  }
+}

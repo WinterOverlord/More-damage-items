@@ -1,0 +1,48 @@
+{
+  "_fv": 69,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "classc",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.CARROT"
+      },
+      {
+        "value": "Items.CARROT"
+      },
+      {
+        "value": "Items.CARROT"
+      },
+      {
+        "value": "Items.CAKE"
+      },
+      {
+        "value": "Items.CAKE"
+      },
+      {
+        "value": "Items.CAKE"
+      },
+      {
+        "value": "Items.CARROT"
+      },
+      {
+        "value": "Items.CARROT"
+      },
+      {
+        "value": "Items.CARROT"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Pumpkinredandblue"
+    },
+    "name": "ll",
+    "namespace": "mod"
+  }
+}

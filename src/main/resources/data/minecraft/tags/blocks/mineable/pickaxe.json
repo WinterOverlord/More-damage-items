@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "more_damage_items:cyan_block",
+    "more_damage_items:cyan_ore",
+    "more_damage_items:pink_block",
+    "more_damage_items:pink_ore",
+    "more_damage_items:yellow_block",
+    "more_damage_items:yellow_ore"
+  ]
+}

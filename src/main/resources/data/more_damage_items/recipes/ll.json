@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "classc",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bbb",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:carrot"
+    },
+    "b": {
+      "item": "minecraft:cake"
+    }
+  },
+  "result": {
+    "item": "more_damage_items:pumpkinredandblue",
+    "count": 1
+  }
+}

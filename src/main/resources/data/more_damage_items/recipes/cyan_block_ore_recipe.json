@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "more_damage_items:cyan_block"
+    }
+  ],
+  "result": {
+    "item": "more_damage_items:cyan",
+    "count": 9
+  }
+}

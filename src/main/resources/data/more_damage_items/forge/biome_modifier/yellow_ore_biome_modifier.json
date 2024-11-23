@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#is_overworld",
+  "features": "more_damage_items:yellow_ore",
+  "step": "underground_ores"
+}
